@@ -1,7 +1,7 @@
 #CSci 127 Teaching Staff
 #October 2017
 #A program that summarizes images, like koalastothemax
-#Modified by:  ADD YOUR NAME HERE
+#Modified by: Tea Nurcellari
 
 import numpy as np
 import matplotlib.pyplot as plt
